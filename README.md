@@ -123,4 +123,4 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! </i></p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect!. </i></p>
